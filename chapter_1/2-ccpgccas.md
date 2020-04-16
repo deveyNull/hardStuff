@@ -1,6 +1,6 @@
 # ccp gcc as
 
-[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=379)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/assign/view.php?id=379)
 
 So you wrote it in C and it compiled.... but what is compilation? 
 

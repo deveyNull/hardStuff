@@ -1,6 +1,6 @@
 # Ghidra
 
-[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=996)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/assign/view.php?id=996)
 
 You probably don't know how to use Ghidra right now. That is fine. Use Ghidra to open up the decompiled source code for this function. Then track the function calls and see what happens.
 

@@ -1,6 +1,6 @@
 # Objdump
 
-[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=378)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/assign/view.php?id=378)
 
 Alright you wrote the C. You compiled it multiple ways. You sort of know what Assembly is. Sort of.
 
