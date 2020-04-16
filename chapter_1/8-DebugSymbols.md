@@ -1,6 +1,6 @@
 # Debug Symbols
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=1009)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=1009)
 
 Follow this tutorial to learn about using Debugging Symbols in GDB:
 

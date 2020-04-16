@@ -1,6 +1,6 @@
 # This Course is Under Construction
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=988)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=988)
 
 This is a very rough draft of a course. It will not be completed for a reasonable amount of time. 
 

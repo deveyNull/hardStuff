@@ -1,6 +1,6 @@
 # Linking
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=383)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=383)
 
 Still using: <http://cs-fundamentals.com/c-programming/how-to-compile-c-program-using-gcc.php>
 

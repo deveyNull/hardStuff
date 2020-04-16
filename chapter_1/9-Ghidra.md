@@ -1,6 +1,6 @@
 # Ghidra
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=381)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=381)
 
 Alright you wrote the C.
 Welcome to Ghidra.

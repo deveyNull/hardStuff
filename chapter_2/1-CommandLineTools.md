@@ -1,6 +1,6 @@
 # Command Line Tools
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=993)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=993)
 
 Using this program you just compiled, use some of your tools to learn more about it.
 

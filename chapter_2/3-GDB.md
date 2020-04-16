@@ -1,6 +1,6 @@
 # GDB
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=995)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=995)
 
 Compile your file using "gcc -g". Work through the file you created using GDB. While you are going through it, step  through using `nexti`. Then try to step through it using `next`. Set breakpoints and examine values and addresses as you see fit.
 

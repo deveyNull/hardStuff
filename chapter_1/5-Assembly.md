@@ -1,6 +1,6 @@
 # Assembly
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=1011)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=1011)
 
 Before we do anything else, let's read over about x86 assembly. 
 <https://en.wikipedia.org/wiki/X86_assembly_language>

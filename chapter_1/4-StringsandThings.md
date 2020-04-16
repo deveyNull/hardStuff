@@ -1,6 +1,6 @@
 # Strings and Things
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=986)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=986)
 
 Here is where a short tutorial on `file`, `readelf`, `strings`, and `ldd` will go.
 
